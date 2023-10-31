@@ -1,3 +1,7 @@
+<!-- <script setup>
+const layout = 'another';
+</script> -->
+
 <template>
   <div>
     <NuxtLayout>
